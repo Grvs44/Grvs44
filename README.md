@@ -8,6 +8,8 @@ Below are some of the projects I've been working on recently.
 
 ## Projects
 
+- Digital Dungeons (2025-26) - for my Group Design Project in my fourth year of university, we made a toolkit to capture and perform first-pass analysis of TTRPG gameplay
+- [Recycling Data](https://github.com/Grvs44/recycling-data) (2025) - a data story created for a fourth-year module using Chart.js and React to analyse waste recycling in the UK and compare it to countries in the EU - [view page](https://grvs44.github.io/recycling-data/)
 - [Inclusive Venues](https://github.com/Grvs44/Inclusive-Venues) (2024-25) - a Progressive Web App that allows users to rate the inclusivity and safety of venues, submitted as part of my third year dissertation
 - [Budget Manager](https://github.com/Grvs44/budgetmanager) (2023-25) - a PWA for budgeting and keeping track of payments
 - [Forza Telemetry Console](https://github.com/Grvs44/Forza-Telemetry-Arduino) (2025) - an Arduino-based console that uses the Forza racing games' data out feature to display RPM, acceleration, and lap times! I also created [Forza Telemetry Export](https://github.com/Grvs44/Forza-Telemetry-Export), a Python program that records the data and exports it in raw, CSV, or SQLite3 formats.
