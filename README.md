@@ -3,7 +3,7 @@
 [View my portfolio page](https://grvs44.github.io/portfolio/)
 
 Hi, I'm Elli (she/her)!
-I'm currently a 4th year MEng Computer Science Student at University of Southampton!
+I recently graduated with a First Class Honours in MEng Computer Science from the University of Southampton!
 Below are some of the projects I've been working on recently.
 
 ## Projects
